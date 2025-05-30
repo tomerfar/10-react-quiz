@@ -12,6 +12,7 @@ Keeps track of user score and high score
 Different screens for start, active quiz, loading, error, and finish
 
 Getting Started
+
 1.Install Dependencies
 
 First, install the project dependencies:
