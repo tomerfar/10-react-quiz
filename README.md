@@ -1,4 +1,5 @@
 React Quiz App
+
 This is a simple Quiz Application built with React. It uses a fake API server to fetch the quiz questions and allows the user to play, track points, and manage a high score.
 
 Features
